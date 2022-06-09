@@ -2,7 +2,7 @@
 - 👀 I’m interested in hip-hop, video games and code
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate and improve skills on small html/css - JS project
-- 📫 How to reach me awtz.dev@gmail.com
+- 📫 How to reach me : Twitter @DevChauve
 
 <!---
 AntoineWtz/AntoineWtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
